@@ -1,0 +1,344 @@
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\testhost.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\testhost.exe
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\nunit.engine.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.UnitTest.deps.json
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.UnitTest.runtimeconfig.json
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.UnitTest.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.UnitTest.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Bogus.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\FluentAssertions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\FluentValidation.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\nunit.framework.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\xunit.abstractions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\xunit.assert.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Xunit.Di.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\xunit.core.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.csproj.AssemblyReference.cache
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.AssemblyInfoInputs.cache
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.AssemblyInfo.cs
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.csproj.CoreCompileInputs.cache
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.csproj.CopyComplete
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\refint\EOS.CNAB.UnitTest.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.genruntimeconfig.cache
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\ref\EOS.CNAB.UnitTest.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\testhost.exe
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\testhost.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\nunit.engine.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.UnitTest.deps.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.UnitTest.runtimeconfig.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.UnitTest.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.UnitTest.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Bogus.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\FluentAssertions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\FluentValidation.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\nunit.framework.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\xunit.abstractions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\xunit.assert.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\Xunit.Di.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\xunit.core.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\bin\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.csproj.AssemblyReference.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.AssemblyInfoInputs.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.AssemblyInfo.cs
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.csproj.CoreCompileInputs.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.csproj.CopyComplete
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\refint\EOS.CNAB.UnitTest.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\EOS.CNAB.UnitTest.genruntimeconfig.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.UnitTest\obj\Debug\net6.0\ref\EOS.CNAB.UnitTest.dll

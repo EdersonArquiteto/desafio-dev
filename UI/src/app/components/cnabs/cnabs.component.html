@@ -1,0 +1,138 @@
+<div class="container mt-2">
+    <div class="mt-1 row d-flex justify-content-center">
+        <div class="col-auto fs-4">Total em caixa por loja:</div>
+       
+    </div>
+
+    <div class="row d-flex justify-content-center mt-3">
+
+        <div class="col-auto">
+            <div class="col-sm-21 text-center fs-5 fw-semibold">
+                BAR DO JOÃO
+            </div>
+            <div class="col-sm-12 bg-primary text-white fw-bold rounded p-2">
+                R$ {{totalPorLoja[0]}}
+            </div>
+        </div>
+
+        <div class="col-auto">
+            <div class="col-sm-21 text-center fs-5 fw-semibold">
+                ALOJA DO Ó - MATRIZ
+            </div>
+            <div class="col-sm-12 bg-primary text-white fw-bold rounded p-2">
+                R$ {{totalPorLoja[1]}}
+            </div>
+        </div>
+
+        <div class="col-auto">
+            <div class="col-sm-21 text-center fs-5 fw-semibold">
+                AMERCADO DA AVENIDA
+            </div>
+            <div class="col-sm-12 bg-primary text-white fw-bold rounded p-2">
+                R$ {{totalPorLoja[2]}}
+            </div>
+        </div>
+
+        <div class="col-auto">
+            <div class="col-sm-21 text-center fs-5 fw-semibold">
+                ALOJA DO Ó - FILIAL
+            </div>
+            <div class="col-sm-12 bg-primary text-white fw-bold rounded p-2">
+                R$ {{totalPorLoja[2]}}
+            </div>
+        </div>
+
+        <div class="col-auto">
+            <div class="col-sm-21 text-center fs-5 fw-semibold">
+                MERCEARIA 3 IRMÃOS
+            </div>
+            <div class="col-sm-12 bg-primary text-white fw-bold rounded p-2">
+                R$ {{totalPorLoja[2]}}
+            </div>
+        </div>
+        <div class="col-auto">
+            <div class="col-sm-21 text-center fs-5 fw-semibold">
+                <p class="justify-content-rigth">
+                    <button class="btn btn-secondary mt-3 float-end" data-bs-toggle="modal" data-bs-target="#myModal">Carregar Arquivo</button>
+                </p>
+            </div>
+        </div>
+       
+
+    </div>
+    
+    
+       
+    
+    <div class="row mb-2">
+      
+        <table class="table table-striped table-hover table-responsive mt-3 table-bordered">
+            <thead>
+                <tr>
+                    <th>Tipo operação</th>
+                    <th>Data</th>
+                    <th>Valor</th>
+                    <th>CPF</th>
+                    <th>Cliente</th>
+                    <th>Loja</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of expenses">
+                    <td>{{ item.tipoOcorrencia }}</td>
+                    <td>{{ item.date }}</td>
+                    <td>R$ {{ item.value }}</td>
+                    <td>{{ item.cpf }}</td>
+                    <td>{{ item.owner }}</td>
+                    <td>{{ item.storeName }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+ 
+
+
+
+
+
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Carregar arquivo de operações</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="container mt-5">
+                        <div class="row">
+                            <div class="col-md-10">
+                                <h5 class="card-title">Upload de Arquivo</h5>
+                                <form>
+                                    <div class="mb-3">
+                                        <label for="arquivo" class="form-label">Escolha um arquivo</label>
+                                        <input type="file" (change)="onFileSelected($event)" class="form-control" id="arquivo" name="arquivo">
+                                    </div>
+                                    <div class="mb-3">
+                                        <button type="submit" (click)="carregar()" class="btn btn-primary flex-end">Carregar arquivo</button>                                        
+                                    </div>
+                                    <div *ngIf="progress > 0">
+                                        <div class="progress">
+                                          <div class="progress-bar" [style.width.%]="progress"></div>
+                                        </div>
+                                      </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,60 @@
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.deps.json
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.AssemblyReference.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.AssemblyInfoInputs.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.AssemblyInfo.cs
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.CoreCompileInputs.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\obj\Debug\net6.0\refint\EOS.CNAB.Application.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\obj\Debug\net6.0\ref\EOS.CNAB.Application.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.CopyComplete
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.deps.json
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.AssemblyReference.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.AssemblyInfoInputs.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.AssemblyInfo.cs
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.CoreCompileInputs.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.CopyComplete
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\obj\Debug\net6.0\refint\EOS.CNAB.Application.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.Application\obj\Debug\net6.0\ref\EOS.CNAB.Application.dll
+D:\Fabrica\Teste\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.deps.json
+D:\Fabrica\Teste\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.dll
+D:\Fabrica\Teste\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\Teste\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.AssemblyReference.cache
+D:\Fabrica\Teste\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\Teste\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.AssemblyInfoInputs.cache
+D:\Fabrica\Teste\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.AssemblyInfo.cs
+D:\Fabrica\Teste\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.CoreCompileInputs.cache
+D:\Fabrica\Teste\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.CopyComplete
+D:\Fabrica\Teste\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.dll
+D:\Fabrica\Teste\API\EOS.CNAB.Application\obj\Debug\net6.0\refint\EOS.CNAB.Application.dll
+D:\Fabrica\Teste\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.Application\obj\Debug\net6.0\ref\EOS.CNAB.Application.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.deps.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Application.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.AssemblyReference.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.AssemblyInfoInputs.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.AssemblyInfo.cs
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.CoreCompileInputs.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.csproj.CopyComplete
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\obj\Debug\net6.0\refint\EOS.CNAB.Application.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\obj\Debug\net6.0\EOS.CNAB.Application.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Application\obj\Debug\net6.0\ref\EOS.CNAB.Application.dll

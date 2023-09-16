@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kx43t5EuvFEz7xAfM6pxCWFuJs1xOxYLZgo8+wua8Ck=",
+  "Source": "EOS.CNAB.API",
+  "BasePath": "_content/EOS.CNAB.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

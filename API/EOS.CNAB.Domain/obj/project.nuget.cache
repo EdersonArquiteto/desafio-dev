@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4pEKWiU+P84OQi9kmW5zCTMBl7K29FkjntvaZ8esIkNCDJ790GBDHiI+tzNVheB5AqI3xhMTGvy41NwnQWRYlQ==",
+  "success": true,
+  "projectFilePath": "D:\\Fabrica\\Teste ByCoder\\API\\EOS.CNAB.Domain\\EOS.CNAB.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eders\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\eders\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\eders\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\eders\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\eders\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

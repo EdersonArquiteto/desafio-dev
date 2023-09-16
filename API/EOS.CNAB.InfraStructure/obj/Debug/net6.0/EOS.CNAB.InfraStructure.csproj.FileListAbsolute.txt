@@ -1,0 +1,68 @@
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.deps.json
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.runtimeconfig.json
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.AssemblyReference.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.AssemblyInfoInputs.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.AssemblyInfo.cs
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.CoreCompileInputs.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.CopyComplete
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\obj\Debug\net6.0\refint\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.genruntimeconfig.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.InfraStructure\obj\Debug\net6.0\ref\EOS.CNAB.InfraStructure.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.deps.json
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.runtimeconfig.json
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.AssemblyReference.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.AssemblyInfoInputs.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.AssemblyInfo.cs
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.CoreCompileInputs.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.CopyComplete
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\refint\EOS.CNAB.InfraStructure.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.genruntimeconfig.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\ref\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.deps.json
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.runtimeconfig.json
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.AssemblyReference.cache
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.AssemblyInfoInputs.cache
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.AssemblyInfo.cs
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.CoreCompileInputs.cache
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.CopyComplete
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\refint\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.genruntimeconfig.cache
+D:\Fabrica\Teste\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\ref\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.deps.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.runtimeconfig.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.AssemblyReference.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.AssemblyInfoInputs.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.AssemblyInfo.cs
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.CoreCompileInputs.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.csproj.CopyComplete
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\refint\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\EOS.CNAB.InfraStructure.genruntimeconfig.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.InfraStructure\obj\Debug\net6.0\ref\EOS.CNAB.InfraStructure.dll

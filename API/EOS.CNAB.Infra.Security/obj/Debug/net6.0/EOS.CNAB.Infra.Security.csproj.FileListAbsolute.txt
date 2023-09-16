@@ -1,0 +1,60 @@
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.deps.json
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.AssemblyReference.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.AssemblyInfoInputs.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.AssemblyInfo.cs
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.CoreCompileInputs.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\obj\Debug\net6.0\refint\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\obj\Debug\net6.0\ref\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.CopyComplete
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.deps.json
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.AssemblyReference.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.AssemblyInfoInputs.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.AssemblyInfo.cs
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.CoreCompileInputs.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.CopyComplete
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\refint\EOS.CNAB.Infra.Security.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\ref\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.deps.json
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.AssemblyReference.cache
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.AssemblyInfoInputs.cache
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.AssemblyInfo.cs
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.CoreCompileInputs.cache
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.CopyComplete
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\refint\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\ref\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.deps.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.AssemblyReference.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.AssemblyInfoInputs.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.AssemblyInfo.cs
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.CoreCompileInputs.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.csproj.CopyComplete
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\refint\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.Infra.Security\obj\Debug\net6.0\ref\EOS.CNAB.Infra.Security.dll

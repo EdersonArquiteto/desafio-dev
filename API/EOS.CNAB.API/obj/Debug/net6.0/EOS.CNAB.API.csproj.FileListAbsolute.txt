@@ -1,0 +1,316 @@
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\appsettings.json
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.exe
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.deps.json
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.runtimeconfig.json
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.AssemblyReference.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.AssemblyInfoInputs.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.AssemblyInfo.cs
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.CoreCompileInputs.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.EOS.CNAB.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EOS.CNAB.API.props
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EOS.CNAB.API.props
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EOS.CNAB.API.props
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\scopedcss\bundle\EOS.CNAB.API.styles.css
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.CopyComplete
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\refint\EOS.CNAB.API.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.genruntimeconfig.cache
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\obj\Debug\net6.0\ref\EOS.CNAB.API.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Application.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Application.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\AutoMapper.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\FluentValidation.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\EOS.CNAB\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\appsettings.Development.json
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\appsettings.json
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.exe
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.deps.json
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.runtimeconfig.json
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\AutoMapper.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\FluentValidation.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Application.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Application.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.AssemblyReference.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.AssemblyInfoInputs.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.AssemblyInfo.cs
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.CoreCompileInputs.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.EOS.CNAB.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EOS.CNAB.API.props
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EOS.CNAB.API.props
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EOS.CNAB.API.props
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\scopedcss\bundle\EOS.CNAB.API.styles.css
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.CopyComplete
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\refint\EOS.CNAB.API.dll
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.pdb
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.genruntimeconfig.cache
+F:\Fabrica\TesteEd\API\EOS.CNAB.API\obj\Debug\net6.0\ref\EOS.CNAB.API.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\appsettings.json
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.exe
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.deps.json
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.runtimeconfig.json
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\AutoMapper.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\FluentValidation.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Application.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Application.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.AssemblyReference.cache
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.AssemblyInfoInputs.cache
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.AssemblyInfo.cs
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.CoreCompileInputs.cache
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.EOS.CNAB.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EOS.CNAB.API.props
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EOS.CNAB.API.props
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EOS.CNAB.API.props
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\scopedcss\bundle\EOS.CNAB.API.styles.css
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.CopyComplete
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\refint\EOS.CNAB.API.dll
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.pdb
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.genruntimeconfig.cache
+D:\Fabrica\Teste\API\EOS.CNAB.API\obj\Debug\net6.0\ref\EOS.CNAB.API.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\appsettings.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.exe
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.deps.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.runtimeconfig.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.API.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\AutoMapper.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\FluentValidation.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Application.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Domain.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Infra.Security.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.InfraStructure.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Application.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Infra.Security.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.InfraStructure.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\bin\Debug\net6.0\EOS.CNAB.Domain.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.AssemblyReference.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.AssemblyInfoInputs.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.AssemblyInfo.cs
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.CoreCompileInputs.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.EOS.CNAB.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EOS.CNAB.API.props
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EOS.CNAB.API.props
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EOS.CNAB.API.props
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\scopedcss\bundle\EOS.CNAB.API.styles.css
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.csproj.CopyComplete
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\refint\EOS.CNAB.API.dll
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.pdb
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\EOS.CNAB.API.genruntimeconfig.cache
+D:\Fabrica\Teste ByCoder\API\EOS.CNAB.API\obj\Debug\net6.0\ref\EOS.CNAB.API.dll
